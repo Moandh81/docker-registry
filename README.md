@@ -1,1 +1,2 @@
 # docker-registry
+update readme
